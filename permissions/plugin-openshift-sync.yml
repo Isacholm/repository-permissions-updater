@@ -6,3 +6,11 @@ paths:
 developers:
 - "gmontero"
 - "bparees"
+- "waveywaves"
+- "akram"
+- "jkhelil"
+security:
+  contacts:
+    jira: "akram"
+    email: prodsec-openshift@redhat.com
+

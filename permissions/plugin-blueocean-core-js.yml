@@ -9,6 +9,15 @@ developers:
 - "tfennelly"
 - "kzantow"
 - "davidbees"
+- "richbg"
+- "carroll"
+- "dnusbaum"
+- "jtaboada"
+- "kshultz"
+- "bitwiseman"
+- "olamy"
 - "halkeye"
 - "tscherler"
-
+security:
+  contacts:
+    jira: "pipeline_security_members"

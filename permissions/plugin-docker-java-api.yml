@@ -4,5 +4,5 @@ github: "jenkinsci/docker-java-api-plugin"
 paths:
 - "org/jenkins-ci/plugins/docker-java-api"
 developers:
-- "ndeloof"
 - "ydubreuil"
+- "ericcitaire"

@@ -1,0 +1,8 @@
+---
+name: "configuration-as-code-groovy"
+github: "jenkinsci/configuration-as-code-groovy-plugin"
+paths:
+- "io/jenkins/plugins/configuration-as-code-groovy"
+developers:
+- "szandala"
+- "jetersen"

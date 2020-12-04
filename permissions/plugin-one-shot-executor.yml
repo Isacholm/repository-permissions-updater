@@ -3,5 +3,7 @@ name: "one-shot-executor"
 github: "jenkinsci/one-shot-executor-plugin"
 paths:
 - "org/jenkins-ci/plugins/one-shot-executor"
-developers:
-- "ndeloof"
+developers: []
+security:
+  contacts:
+    jira: "modern_platforms_security_members"

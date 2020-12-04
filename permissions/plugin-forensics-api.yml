@@ -1,0 +1,10 @@
+---
+name: "forensics-api"
+github: "jenkinsci/forensics-api-plugin"
+paths:
+- "io/jenkins/plugins/forensics-api"
+developers:
+- "drulli"
+security:
+  contacts:
+    jira: "foundation_security_members"

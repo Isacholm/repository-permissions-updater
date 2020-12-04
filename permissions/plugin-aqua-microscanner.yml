@@ -5,3 +5,8 @@ paths:
 - "org/jenkins-ci/plugins/aqua-microscanner"
 developers:
 - "oranmoshai"
+- "aqua_maintainers"
+- "sudhirbatchu"
+security:
+  contacts:
+    jira: aqua_maintainers

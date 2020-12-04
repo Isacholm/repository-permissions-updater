@@ -4,4 +4,10 @@ github: "jenkinsci/aqua-security-scanner-plugin"
 paths:
 - "org/jenkins-ci/plugins/aqua-security-scanner"
 developers:
-- "norbyltd"
+- "oranmoshai"
+- "aqua_maintainers"
+- "ppandrangi"
+- "sudhirbatchu"
+security:
+  contacts:
+    jira: aqua_maintainers

@@ -5,6 +5,11 @@ paths:
 - "org/jenkins-ci/plugins/ec2"
 developers:
 - "thoulen"
-- "ndeloof"
 - "julienduchesne"
-- "jvz"
+- "fcojfernandez"
+- "raihaan"
+- "mramonleon"
+- "froblesmartin"
+security:
+  contacts:
+    jira: "foundation_security_members"

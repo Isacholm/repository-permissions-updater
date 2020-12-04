@@ -6,4 +6,9 @@ paths:
 - "io/jenkins/configuration-as-code"
 developers:
 - "praqma"
-- "ndeloof"
+- "jetersen"
+- "oleg_nenashev"
+- "timja"
+security:
+  contacts:
+    jira: "jetersen"
